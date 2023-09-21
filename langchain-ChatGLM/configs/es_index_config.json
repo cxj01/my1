@@ -1,0 +1,16 @@
+{
+    "index_to_name": {
+        "gf_zlh_small": "国家安全法规",
+        "fg_zlh_jl": "法律法规",
+        "fg_zlh_ew": "俄乌冲突",
+        "fg_zlh_th": "台海",
+        "fg_zlh_all": "测试库"
+    },
+    "name_to_index": {
+        "国家安全法规": "fg_zlh_small",
+        "法律法规": "fg_zlh_jl",
+        "俄乌冲突": "fg_zlh_ew",
+        "台海": "fg_zlh_th",
+        "测试库": "fg_zlh_all"
+    }
+}
